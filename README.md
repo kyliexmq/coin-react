@@ -1,5 +1,5 @@
 # Cryptobase
-Cryptobase is a website that let users to check and search the price of different digital coins. The price is in Australian dollors. Users can sign in by emails and passwords. After logging in, users can save their favourite coins and can check them in users' account. The website has dark mode and light mode. The project's backend is produced by firebase, this repository contains the frontend code.
+Cryptobase is a website that let users to check and search the price of different digital coins. The price is in Australian dollars. Users can sign in by emails and passwords. After logging in, users can save their favourite coins and can check them in users' account. The website has dark mode and light mode. The project's backend is produced by firebase, this repository contains the frontend code.
 
 # Stack
 
