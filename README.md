@@ -1,70 +1,27 @@
-# Getting Started with Create React App
+# Cryptobase
+Cryptobase is a website that let users to check and search the price of different digital coins. The price is in Australian dollors. Users can sign in by emails and passwords. After logging in, users can save their favourite coins and can check them in users' account. The website has dark mode and light mode. The project's backend is produced by firebase, this repository contains the frontend code.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Stack
 
-## Available Scripts
+JavaScript
+HTML
+CSS
+React.js
+Firebase
+tailwindcss
 
-In the project directory, you can run:
+# About the Project
 
-### `yarn start`
+The website: https://digicoin-47648.web.app/
+ 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Home page
 
-### `yarn test`
+<img width="1482" alt="Screen Shot 2023-01-20 at 6 33 35 pm" src="https://user-images.githubusercontent.com/114300308/213641977-8f2a981e-8a8f-4ea3-9271-0056d304bf97.png">
+<img width="1482" alt="Screen Shot 2023-01-20 at 6 34 01 pm" src="https://user-images.githubusercontent.com/114300308/213641983-ce4bac53-7680-4751-bb23-98261e291f4c.png">
+<img width="1482" alt="Screen Shot 2023-01-20 at 6 34 38 pm" src="https://user-images.githubusercontent.com/114300308/213641990-81561d3b-2101-43ab-8f6f-9a5ca36e81c9.png">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Future improvements
+Enable users to select the type and numbers of coins they want to buy and check out by using bank card.
+Show updated news in the coin market.
