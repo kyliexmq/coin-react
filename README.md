@@ -3,12 +3,12 @@ Cryptobase is a website that let users to check and search the price of differen
 
 # Stack
 
-JavaScript
-HTML
-CSS
-React.js
-Firebase
-tailwindcss
+- JavaScript
+- HTML
+- CSS
+- React.js
+- Firebase
+- tailwindcss
 
 # About the Project
 
